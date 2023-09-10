@@ -34,7 +34,4 @@ $ npm install
 
 # to start server at localhost:5173
 $ npm run start
-
-# to build app
-$ npm run build
 ```
