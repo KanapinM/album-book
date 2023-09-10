@@ -1,0 +1,131 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+#root {
+  width: 100%;
+}
+
+:root {
+  font-family: 'Aeonik', 'Parmigiano', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button, a {
+  border: 1px solid transparent;
+  display: flex;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  text-decoration: none;
+  align-items: center;
+}
+button:hover, a:hover {
+  border-color: blue;
+}
+
+.banner {
+  padding: 0 96px;
+  border-radius: 16px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: start;
+}
+.banner__title {
+  margin: 0;
+  font-family: 'Parmigiano';
+  font-size: 48px;
+  font-weight: 250;
+  line-height: 52px; 
+  max-width: 517px;
+}
+.banner__title_strong {
+  font-family: 'Aeonik';
+  font-weight: 400;
+}
+.banner__availability {
+  margin: 10px 0 44px;
+  font-family: 'Aeonik';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px; 
+}
+.banner__btn {
+  padding: 8px 24px;
+  font-family: 'Aeonik';
+  border-radius: 8px;
+  flex-direction: column;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  border: none;
+}
+.banner__price {
+  font-family: 'Aeonik';
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+}
+.up-counter {
+  padding: 8px 24px;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+}
+.down-counter {
+  padding: 8px 24px;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+}
+@media screen and (max-width: 639px) {
+  .banner {
+    padding: 0 24px;
+  }
+  .banner__title {
+    font-size: 32px;
+    line-height: 36px
+  }
+  .banner__title_strong {
+    max-width: 128px;
+    display: block;
+  }
+  .banner__availability {
+    margin: 3px 0 188px;
+    line-height: 24px;
+  }
+  .banner__btn {
+    width: 84.7%;
+  }
+  .up-counter {
+    padding: 0px 10px;
+    bottom: 2px;
+    right: 24px;
+  }
+  .down-counter {
+    padding: 0px 10px;
+    bottom: 2px;
+    left: 24px;
+  }
+}

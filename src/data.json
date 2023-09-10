@@ -1,0 +1,101 @@
+{
+  "bannerList": [
+    {
+      "id": 1,
+      "color": "#213FB4",
+      "title": "Красная тканевая ",
+      "titleStrong": "книга с\u00A0сердцем",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "2 480",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 2,
+      "title": "Синяя тканевая ",
+      "color": "#596fc7",
+      "titleStrong": "книга с\u00A0кольцами",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "2 500",
+      "buttonLink": "http://google.com"
+    },
+    {
+      "id": 3,
+      "title": "Зеленый кожаный ",
+      "color": "#909fda",
+      "titleStrong": "блокнот с\u00A0пером",
+      "descriptionAvailability": "ожидается в\u00A0продаже"
+    },
+    {
+      "id": 4,
+      "title": "Желтая велюровая ",
+      "color": "#c8cfec",
+      "titleStrong": "книга со\u00A0свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://ebay.com"
+    },
+    {
+      "id": 5,
+      "title": "Желтая велюровая 2 ",
+      "color": "#213FB4",
+      "titleStrong": "книга со\u00A0свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 6,
+      "title": "Желтая велюровая 3 ",
+      "color": "#c8cfec",
+      "titleStrong": "книга со свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 7,
+      "title": "Желтая велюровая 4 ",
+      "color": "#596fc7",
+      "titleStrong": "книга со свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 7,
+      "title": "Желтая велюровая 5 ",
+      "color": "#909fda",
+      "titleStrong": "книга со\u00A0свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 8,
+      "title": "Желтая велюровая 6 ",
+      "color": "#c8cfec",
+      "titleStrong": "книга со\u00A0свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 9,
+      "title": "Желтая велюровая 7 ",
+      "color": "#596fc7",
+      "titleStrong": "книга со\u00A0свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    },
+    {
+      "id": 10,
+      "title": "Желтая велюровая 8 ",
+      "color": "#213FB4",
+      "titleStrong": "книга со\u00A0свечой",
+      "descriptionAvailability": "Доступно для\u00A0сборки",
+      "buttonPrice": "3 200",
+      "buttonLink": "http://wikipedia.org"
+    }
+  ]
+}

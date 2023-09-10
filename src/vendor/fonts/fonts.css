@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Roboto';
+  src:
+    local('Roboto'),
+    url('./fonts/Roboto-Medium.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Aeonik'),
+    url('./Aeonik-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('Aeonik'),
+    url('./Aeonik-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Parmigiano';
+  font-style: normal;
+  font-weight: 250;
+  src:
+    local('Parmigiano'),
+    url('./Parmigiano-Lt.ttf') format('truetype');
+}
